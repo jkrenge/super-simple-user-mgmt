@@ -1,0 +1,29 @@
+{
+  "name": "super-simple-user-mgmt",
+  "version": "0.0.1",
+  "description": "Simple API user management with protousers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.org/jkrenge/super-simple-user-mgmt.git"
+  },
+  "keywords": [
+    "user",
+    "user-mgmt",
+    "user-management",
+    "prototoken",
+    "bcrypt",
+    "api"
+  ],
+  "author": "Julian Krenge",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "bcrypt": "^0.8.3",
+    "mongoose": "^4.0.2",
+    "validator": "^3.39.0"
+  }
+}
