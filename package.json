@@ -1,14 +1,14 @@
 {
   "name": "super-simple-user-mgmt",
-  "version": "0.0.1",
-  "description": "Simple API user management with protousers",
+  "version": "0.0.2",
+  "description": "API user management for mobile apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@bitbucket.org/jkrenge/super-simple-user-mgmt.git"
+    "url": "ssh://git@github.com:jkrenge/super-simple-user-mgmt.git"
   },
   "keywords": [
     "user",
